@@ -1,5 +1,3 @@
-# Lead-Tracker
-
 # Lead Tracker Chrome Extension
 
 Lead Tracker is a simple yet powerful Chrome extension designed for learners and professionals who wish to keep track of important websites. It allows users to save and list URLs directly from the browser with a single click.
@@ -12,7 +10,7 @@ Lead Tracker is a simple yet powerful Chrome extension designed for learners and
 
 ## Installation
 
-To install the Lead Tracker extension, follow these steps:
+To install the Lead Tracker extension, follow this step:
 
 1. Clone the repository to your local machine or download the files:
    ```sh
